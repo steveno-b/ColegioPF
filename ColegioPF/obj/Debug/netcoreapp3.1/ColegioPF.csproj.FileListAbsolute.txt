@@ -1,0 +1,198 @@
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version1\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version2\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version3\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version4\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.csproj.CopyComplete
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\ColegioPF - Versiones\Version5\ColegioPF\ColegioPF\obj\Debug\netcoreapp3.1\ColegioPF.genruntimeconfig.cache
